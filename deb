@@ -1,0 +1,11 @@
+Section: Paranoid
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: freepto-passwords-changer
+Version: 1.1
+Maintainer: paskao <paskao@hacari.org>
+Depends: python-gtk2
+Files: freepto-passwords-changer /usr/bin/
+  freepto-passwords-changer.desktop /usr/share/applications/
+Description: GTK UI to change freepto passwords
