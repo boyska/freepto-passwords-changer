@@ -8,7 +8,7 @@ Maintainer: paskao <paskao@hacari.org>
 Depends: python-gtk2
 Files: freepto-passwords-changer /usr/bin/
   freepto-passwords-changer.desktop /usr/share/applications/
-  locale/es_ES/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/locale/es_ES/LC_MESSAGES/freepto-passwords-changer.mo
-  locale/it_IT/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/locale/it_IT/LC_MESSAGES/freepto-passwords-changer.mo
-  locale/en_US/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/locale/en_US/LC_MESSAGES/freepto-passwords-changer.mo
+  locale/es_ES/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/
+  locale/it_IT/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/
+  locale/en_US/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/
 Description: GTK UI to change freepto passwords
