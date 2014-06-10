@@ -5,7 +5,7 @@ Standards-Version: 3.9.2
 Package: freepto-passwords-changer
 Version: 1.1
 Maintainer: paskao <paskao@hacari.org>
-Depends: python-gtk2
+Depends: python-gtk2, freepto-usb-utils
 Files: freepto-passwords-changer /usr/bin/
   freepto-passwords-changer.desktop /usr/share/applications/
   locale/es_ES/LC_MESSAGES/freepto-passwords-changer.mo /usr/share/
